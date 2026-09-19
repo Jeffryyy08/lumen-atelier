@@ -1,0 +1,24 @@
+{
+  "name": "lumen-atelier-demo",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@phosphor-icons/react": "^2.1.7",
+    "framer-motion": "^11.15.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@esbuild/win32-x64": "^0.28.2",
+    "@tailwindcss/vite": "^4.1.12",
+    "@vitejs/plugin-react": "^4.3.4",
+    "tailwindcss": "^4.1.12",
+    "vite": "^6.0.5"
+  }
+}

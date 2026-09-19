@@ -1,0 +1,9 @@
+<svg width="226" height="64" viewBox="0 0 226 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">LUMEN Atelier</title>
+  <desc id="desc">Logotipo claro de LUMEN Atelier.</desc>
+  <path d="M32 6C24.5 15.5 16 23.5 16 35.3C16 47.1 23.2 56 32 56C40.8 56 48 47.1 48 35.3C48 23.5 39.5 15.5 32 6Z" fill="#D97D6D"/>
+  <path d="M32 18.5C28.5 24.1 24.5 28.5 24.5 35.1C24.5 41.1 27.7 45.4 32 45.4C36.3 45.4 39.5 41.1 39.5 35.1C39.5 28.5 35.5 24.1 32 18.5Z" fill="#101010"/>
+  <path d="M32 28.2C30.2 31.3 28.7 33.6 28.7 36.4C28.7 39.2 30.1 41 32 41C33.9 41 35.3 39.2 35.3 36.4C35.3 33.6 33.8 31.3 32 28.2Z" fill="#F2F0EC"/>
+  <text x="70" y="34" fill="#FFFDF8" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" letter-spacing="3">LUMEN</text>
+  <text x="72" y="49" fill="#96928B" font-family="Georgia, serif" font-size="12" font-style="italic" letter-spacing="1.7">Atelier</text>
+</svg>
